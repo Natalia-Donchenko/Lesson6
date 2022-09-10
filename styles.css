@@ -1,0 +1,33 @@
+.card {
+  width: 200px;
+  background: #E0E0E0;
+  color: black;
+  border: 3px solid rgb(0, 0, 0);
+  margin-right: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.color {
+  width: 65%;
+} 
+
+h2 {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+p {
+  color: black;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  padding: 2px;
+}
+
+.logo {
+  width: 150px;
+}
+
+
